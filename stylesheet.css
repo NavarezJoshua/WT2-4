@@ -1,0 +1,18 @@
+body{
+    background-color: blue;
+    font-family: Courier;
+
+}
+
+h1{
+    font-family: verdana;
+    text-align: left;
+    margin: auto;
+}
+
+p{
+    font-family: italic;
+    font-size: small;
+    margin: auto;
+    
+}
