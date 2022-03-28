@@ -1,0 +1,43 @@
+
+body {
+  background-image: url("bg.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 300%;
+  text-align: center;
+}
+
+th {
+  background-color: whitesmoke;
+  color: black;
+  font
+}
+
+td {
+  color: black;
+  background-color: White;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: auto;
+  
+}
+
+ th {
+  height: 60px;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: lighter;
+}
+
